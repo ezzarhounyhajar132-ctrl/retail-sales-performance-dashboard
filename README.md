@@ -22,6 +22,7 @@ It covers data cleaning and exploratory data analysis using Python, followed by 
 ## Project Structure
 
 ```text
+├── sales_dashboard.csv          # Original retail sales dataset
 ├── sales_eda.ipynb              # Python exploratory data analysis notebook
 ├── sales_cleaned.csv            # Cleaned dataset exported for Power BI
 ├── sales_dashboard.pbix         # Power BI dashboard
